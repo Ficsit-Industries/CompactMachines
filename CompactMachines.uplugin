@@ -1,0 +1,28 @@
+{
+	"CanContainContent": true,
+	"FileVersion": 3,
+	"SemVersion": "2.0.0",
+	"Version": 1,
+	"VersionName": "2.0.0",
+	"FriendlyName": "CompactMachines-2.0.0",
+	"Description": "Use Multiple Machines In One",
+	"Category": "Modding",
+	"CreatedBy": "Ficsit Industries, Mastrmyrtr9, xXdrewbaccaXx",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"RemoteVersionRange": "^1.0.0",
+	"AcceptsAnyRemoteVersion": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.5.0",
+			"bIsOptional": false,
+			"Enabled": true
+		}
+	]
+}
