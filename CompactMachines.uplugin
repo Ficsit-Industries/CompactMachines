@@ -1,18 +1,18 @@
 {
 	"CanContainContent": true,
 	"FileVersion": 3,
-	"SemVersion": "2.0.0",
+	"SemVersion": "1.5.1",
 	"Version": 1,
-	"VersionName": "2.0.0",
-	"FriendlyName": "CompactMachines-2.0.0",
+	"VersionName": "1.5.1",
+	"FriendlyName": "CompactMachines",
 	"Description": "Use Multiple Machines In One",
 	"Category": "Modding",
-	"CreatedBy": "Ficsit Industries, Mastrmyrtr9, xXdrewbaccaXx",
+	"CreatedBy": "Mastrmyrtr9, RipleyCreek",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"IsBetaVersion": false,
+	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
 	"Installed": true,
 	"RemoteVersionRange": "^1.0.0",
@@ -20,9 +20,10 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.5.0",
+			"SemVersion": "^3.8.0",
 			"bIsOptional": false,
 			"Enabled": true
 		}
-	]
+	],
+	"GameVersion": ">=365306"
 }
