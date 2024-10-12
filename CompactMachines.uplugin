@@ -1,9 +1,9 @@
 {
 	"CanContainContent": true,
 	"FileVersion": 3,
-	"SemVersion": "1.5.4",
+	"SemVersion": "1.5.5",
 	"Version": 1,
-	"VersionName": "1.5.4",
+	"VersionName": "1.5.5",
 	"FriendlyName": "CompactMachines",
 	"Description": "Use Multiple Machines In One",
 	"Category": "Modding",
